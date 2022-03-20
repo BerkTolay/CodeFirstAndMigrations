@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CfAppAndMigrations", "CfAppAndMigrations\CfAppAndMigrations.csproj", "{E47B495F-0BB5-4BAA-9CBC-DE2305EF8CF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entities", "Entities\Entities.csproj", "{FC2A4AB7-4469-4EBA-B2DE-B038C373476B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E47B495F-0BB5-4BAA-9CBC-DE2305EF8CF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E47B495F-0BB5-4BAA-9CBC-DE2305EF8CF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E47B495F-0BB5-4BAA-9CBC-DE2305EF8CF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E47B495F-0BB5-4BAA-9CBC-DE2305EF8CF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC2A4AB7-4469-4EBA-B2DE-B038C373476B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2A4AB7-4469-4EBA-B2DE-B038C373476B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2A4AB7-4469-4EBA-B2DE-B038C373476B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2A4AB7-4469-4EBA-B2DE-B038C373476B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1E791A4-A1C6-4634-8A55-B89638D1B9BC}
+	EndGlobalSection
+EndGlobal
